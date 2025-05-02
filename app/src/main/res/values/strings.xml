@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBusinessCard</string>
+    <string name="user_name">Rajveer Singh Rana</string>
+    <string name="position_title">Software Developer</string>
+    <string name="mobile_no">+1234567890</string>
+    <string name="email_id">rajveersinghranaofficial@gmail.com</string>
+    <string name="home_town">Hazaribag</string>
+</resources>
